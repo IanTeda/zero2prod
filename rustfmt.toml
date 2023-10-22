@@ -1,0 +1,2 @@
+# Configure rust format here
+edition = "2021"
